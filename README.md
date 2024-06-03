@@ -4,7 +4,7 @@
 
 ### app下载
 
-![101717401833_ pic](https://github.com/zhenyitech/baps/assets/6236022/a09a5480-06ed-4f11-8391-85d114d8197e)
+> ![101717401833_ pic](https://github.com/zhenyitech/baps/assets/6236022/a09a5480-06ed-4f11-8391-85d114d8197e)
 
 
 ### 月报没有数据
